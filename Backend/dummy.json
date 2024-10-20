@@ -1,0 +1,714 @@
+[
+    {
+    "title": "Attack On Titan",
+    "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/aot.jpeg",
+    "date": "2024-09-02",
+    "time": "10:00 AM",
+    "rating": 4.5,
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "description": "This is the first episode Slime",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/aot.jpeg"
+      },
+      {
+        "title": "Episode 2",
+        "description": "This is the second episode Slime",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/aot.jpeg"
+      }
+    ],
+    "marketItems": [
+      {
+        "title": "Product 1",
+        "description": "This is the first product Slime",
+        "imageURL": "imageProduct",
+        "token": 3
+      },
+      {
+        "title": "Product 2",
+        "description": "This is the second product Slime",
+        "imageURL": "image4",
+        "token": 4
+      }
+    ],
+    "eventItems": [
+      {
+        "title": "Event 1",
+        "description": "This is the first event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 2",
+        "description": "This is the second Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      },
+      {
+        "title": "Event 3",
+        "description": "This is the third event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 4",
+        "description": "This is the fourth Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      }
+    ]
+  },
+  {
+    "title": "JJK",
+    "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/jjk.png",
+    "date": "2024-09-03",
+    "time": "11:00 AM",
+    "rating": 4.0,
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "description": "This is the first episode JJK",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/jjk.png"
+      },
+      {
+        "title": "Episode 2",
+        "description": "This is the second episode JJK",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/jjk.png"
+      }
+    ],
+    "marketItems": [
+      {
+        "title": "Product 1",
+        "description": "This is the first product JJK",
+        "imageURL": "imageProduct"
+      },
+      {
+        "title": "Product 2",
+        "description": "This is the second product JJK",
+        "imageURL": "image4"
+      }
+    ],
+    "eventItems": [
+      {
+        "title": "Event 1",
+        "description": "This is the first event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 2",
+        "description": "This is the second Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      },
+      {
+        "title": "Event 3",
+        "description": "This is the third event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 4",
+        "description": "This is the fourth Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      }
+    ]
+  },
+  {
+    "title": "ShinChan",
+    "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/shin.jpeg",
+    "date": "2024-09-04",
+    "time": "12:00 PM",
+    "rating": 4.2,
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "description": "This is the first episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/shin.jpeg"
+      },
+      {
+        "title": "Episode 2",
+        "description": "This is the second episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/shin.jpeg"
+      }
+    ],
+    "marketItems": [
+      {
+        "title": "Product 1",
+        "description": "This is the first product",
+        "imageURL": "imageProduct"
+      },
+      {
+        "title": "Product 2",
+        "description": "This is the second product",
+        "imageURL": "image4"
+      }
+    ],
+    "eventItems": [
+      {
+        "title": "Event 1",
+        "description": "This is the first event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 2",
+        "description": "This is the second Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      },
+      {
+        "title": "Event 3",
+        "description": "This is the third event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 4",
+        "description": "This is the fourth Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      }
+    ]
+  },
+  {
+    "title": "Bleach",
+    "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/blch.jpeg",
+    "date": "2024-09-05",
+    "time": "01:00 PM",
+    "rating": 4.7,
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "description": "This is the first episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/blch.jpeg"
+      },
+      {
+        "title": "Episode 2",
+        "description": "This is the second episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/blch.jpeg"
+      }
+    ],
+    "marketItems": [
+      {
+        "title": "Product 1",
+        "description": "This is the first product",
+        "imageURL": "imageProduct"
+      },
+      {
+        "title": "Product 2",
+        "description": "This is the second product",
+        "imageURL": "image4"
+      }
+    ],
+    "eventItems": [
+      {
+        "title": "Event 1",
+        "description": "This is the first event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 2",
+        "description": "This is the second Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      },
+      {
+        "title": "Event 3",
+        "description": "This is the third event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 4",
+        "description": "This is the fourth Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      }
+    ]
+  },
+  {
+    "title": "Chainsaw Man",
+    "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/csm.jpeg",
+    "date": "2024-09-06",
+    "time": "02:00 PM",
+    "rating": 4.9,
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "description": "This is the first episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/csm.jpeg"
+      },
+      {
+        "title": "Episode 2",
+        "description": "This is the second episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/csm.jpeg"
+      }
+    ],
+    "marketItems": [
+      {
+        "title": "Product 1",
+        "description": "This is the first product",
+        "imageURL": "imageProduct"
+      },
+      {
+        "title": "Product 2",
+        "description": "This is the second product",
+        "imageURL": "image4"
+      }
+    ],
+    "eventItems": [
+      {
+        "title": "Event 1",
+        "description": "This is the first event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 2",
+        "description": "This is the second Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      },
+      {
+        "title": "Event 3",
+        "description": "This is the third event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 4",
+        "description": "This is the fourth Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      }
+    ]
+  },
+  {
+    "title": "Charlotte",
+    "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/char.jpeg",
+    "date": "2024-09-02",
+    "time": "10:00 AM",
+    "rating": 4.5,
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "description": "This is the first episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/char.jpeg"
+      },
+      {
+        "title": "Episode 2",
+        "description": "This is the second episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/char.jpeg"
+      }
+    ],
+    "marketItems": [
+      {
+        "title": "Product 1",
+        "description": "This is the first product",
+        "imageURL": "imageProduct"
+      },
+      {
+        "title": "Product 2",
+        "description": "This is the second product",
+        "imageURL": "image4"
+      }
+    ],
+    "eventItems": [
+      {
+        "title": "Event 1",
+        "description": "This is the first event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 2",
+        "description": "This is the second Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      },
+      {
+        "title": "Event 3",
+        "description": "This is the third event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 4",
+        "description": "This is the fourth Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      }
+    ]
+  },
+  {
+    "title": "Dragon Ball Z",
+    "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/dbz.jpeg",
+    "date": "2024-09-03",
+    "time": "11:00 AM",
+    "rating": 4.0,
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "description": "This is the first episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/dbz.jpeg"
+      },
+      {
+        "title": "Episode 2",
+        "description": "This is the second episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/dbz.jpeg"
+      }
+    ],
+    "marketItems": [
+      {
+        "title": "Product 1",
+        "description": "This is the first product",
+        "imageURL": "imageProduct"
+      },
+      {
+        "title": "Product 2",
+        "description": "This is the second product",
+        "imageURL": "image4"
+      }
+    ],
+    "eventItems": [
+      {
+        "title": "Event 1",
+        "description": "This is the first event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 2",
+        "description": "This is the second Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      },
+      {
+        "title": "Event 3",
+        "description": "This is the third event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 4",
+        "description": "This is the fourth Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      }
+    ]
+  },
+  {
+    "title": "Twin Star Exorcists",
+    "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/tse.jpg",
+    "date": "2024-09-04",
+    "time": "12:00 PM",
+    "rating": 4.2,
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "description": "This is the first episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/tse.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "description": "This is the second episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/tse.jpg"
+      }
+    ],
+    "marketItems": [
+      {
+        "title": "Product 1",
+        "description": "This is the first product",
+        "imageURL": "imageProduct"
+      },
+      {
+        "title": "Product 2",
+        "description": "This is the second product",
+        "imageURL": "image4"
+      }
+    ],
+    "eventItems": [
+      {
+        "title": "Event 1",
+        "description": "This is the first event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 2",
+        "description": "This is the second Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      },
+      {
+        "title": "Event 3",
+        "description": "This is the third event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 4",
+        "description": "This is the fourth Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      }
+    ]
+  },
+  {
+    "title": "Vinland Saga",
+    "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/vs.jpeg",
+    "date": "2024-09-05",
+    "time": "01:00 PM",
+    "rating": 4.7,
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "description": "This is the first episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/vs.jpeg"
+      },
+      {
+        "title": "Episode 2",
+        "description": "This is the second episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/vs.jpeg"
+      }
+    ],
+    "marketItems": [
+      {
+        "title": "Product 1",
+        "description": "This is the first product",
+        "imageURL": "imageProduct"
+      },
+      {
+        "title": "Product 2",
+        "description": "This is the second product",
+        "imageURL": "image4"
+      }
+    ],
+    "eventItems": [
+      {
+        "title": "Event 1",
+        "description": "This is the first event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 2",
+        "description": "This is the second Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      },
+      {
+        "title": "Event 3",
+        "description": "This is the third event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 4",
+        "description": "This is the fourth Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      }
+    ]
+  },
+  {
+    "title": "Demon Slayer",
+    "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/dmn.png",
+    "date": "2024-09-06",
+    "time": "02:00 PM",
+    "rating": 4.9,
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "description": "This is the first episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/dmn.png"
+      },
+      {
+        "title": "Episode 2",
+        "description": "This is the second episode",
+        "imageURL": "https://raw.githubusercontent.com/Subhajit009iitr/AnimePics/refs/heads/main/dmn.png"
+      }
+    ],
+    "marketItems": [
+      {
+        "title": "Product 1",
+        "description": "This is the first product",
+        "imageURL": "imageProduct"
+      },
+      {
+        "title": "Product 2",
+        "description": "This is the second product",
+        "imageURL": "image4"
+      }
+    ],
+    "eventItems": [
+      {
+        "title": "Event 1",
+        "description": "This is the first event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 2",
+        "description": "This is the second Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      },
+      {
+        "title": "Event 3",
+        "description": "This is the third event Slime",
+        "imageURL": "imageProduct",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 3
+        
+      },
+      {
+        "title": "Event 4",
+        "description": "This is the fourth Event Slime",
+        "imageURL": "image4",
+        "date": "2024-09-02",
+    	"time": "10:00 AM",
+    	"location": "New Delhi, India",
+        "token": 4
+      }
+    ]
+  }
+]
